@@ -2,11 +2,11 @@
   "portfolioList": [
     {
       "src": "/img/portfolio/1.webp",
-      "class": "paintings"
+      "class": "character-art"
     },
     {
       "src": "/img/portfolio/2.webp",
-      "class": "studies"
+      "class": "paintings"
     },
     {
       "src": "/img/portfolio/3.webp",
