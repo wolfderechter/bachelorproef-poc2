@@ -22,7 +22,7 @@ collections:
     files:
       - name: "portfolioList"
         label: "Images"
-        file: "/public/portfolio/portfolio.json"
+        file: "/content/portfolio/portfolio.json"
         fields:
           - name: portfolioList
             label: Portfolio images
