@@ -1,8 +1,8 @@
 ---
-title: About Us
+title: About Me
 menu: main
 type: about
-heading: Let me introduce myself and my friends
+heading: Let me introduce myself
 ---
 Hi I'm an illustrator / concept artist. I mainly do 2D drawings but I'm also capable of basic 3D.
 
