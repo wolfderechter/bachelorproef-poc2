@@ -16,7 +16,7 @@ collections:
          - { label: "Body", name: "body", widget: "text" } # The content of the markdown file
          # about me image
   - name: "portfolio"
-    label: "Pages"
+    label: "Portfolio"
     format: "json"
     extension: "json"
     files:
@@ -26,7 +26,7 @@ collections:
         fields:
           - name: portfolioList
             label: Portfolio images
-            widget: portfolioList
+            widget: list
             fields:
               - {label: "class", name: "class", widget: "string"}
               - {label: "src", name: "src", widget: "image"}
