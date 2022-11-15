@@ -1,10 +1,8 @@
 ---
-title: "About Me"
-# date: 2022-11-13T17:31:17+01:00
-# draft: false
+title: About Us
 menu: main
 type: about
-heading: "Let me introduce myself"
+heading: Let me introduce myself and my friends
 ---
 Hi I'm an illustrator / concept artist. I mainly do 2D drawings but I'm also capable of basic 3D.
 
