@@ -1,34 +1,11 @@
 ---
 title: "About Me"
-date: 2022-11-13T17:31:17+01:00
-draft: false
+# date: 2022-11-13T17:31:17+01:00
+# draft: false
 menu: main
 type: about
+heading: "Let me introduce myself"
 ---
-<section class="about-area">
-        <div class="container container-fluid">
-          <div class="row">
-            <div class="col-lg-6 col-md-12 about-title">
-              <h2 class="pt-5 title-h1">
-                <span>Let me introduce myself</span>
-              </h2>
-              <div class="paragraph py-4 w-75">
-                <p class="para">
-                  Hi I'm an illustrator / concept artist. I mainly do 2D drawings but I'm also capable of basic 3D. 
-                </p>
-                <p class="para">I've been passionate about art and drawing since I was little. In 2021 I graduated as a concept artist and have been expanding my portfolio ever since. On this portfolio website you can catch a glimpse of it.</p>
-                <br>
-                <p class="para">I'm currently available for freelance work on projects big and small! Feel free to email - <a class="email" href="mailto:friedfireant@gmail.com">friedfireant@gmail.com</a>.
-                </p>
-                <a type="button" href="mailto:friedfireant@gmail.com" class="btn button primary-button">Contact me</a>
-              </div>
-            </div>
-            <div class="col-lg-6 col-md-12">
-              <div class="about-image">
-                <!-- About me picture -->
-                <img src="/img/about/Me.png" alt="Self Portrait" class="img-fluid">
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+Hi I'm an illustrator / concept artist. I mainly do 2D drawings but I'm also capable of basic 3D.
+
+I've been passionate about art and drawing since I was little. In 2021 I graduated as a concept artist and have been expanding my portfolio ever since. On this portfolio website you can catch a glimpse of it.
