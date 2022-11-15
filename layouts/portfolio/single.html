@@ -25,7 +25,7 @@
             <!-- images -->
             <div class="masonry">
               {{ $data := getJSON "/content/portfolio/portfolio.json"}}
-              {{ range $data }}
+              {{ range $data.portfolioList }}
               {{ $src := .src }}
               {{ $class := .class }}
               <div class="grid-images {{ $class }}">

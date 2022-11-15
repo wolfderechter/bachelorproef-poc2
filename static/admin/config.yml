@@ -15,3 +15,18 @@ collections:
          - { label: "Heading", name: "heading", widget: "text" } # The heading title of the about me page
          - { label: "Body", name: "body", widget: "text" } # The content of the markdown file
          # about me image
+  - name: "portfolio"
+    label: "Pages"
+    format: "json"
+    extension: "json"
+    files:
+      - name: "images"
+        label: "Images"
+        file: "/public/portfolio/portfolio.json"
+        fields:
+          - name: portfolioList
+            label: Portfolio images
+            widget: portfolioList
+            fields:
+              - {label: "class", name: "class", widget: "string"}
+              - {label: "src", name: "src", widget: "image"}
