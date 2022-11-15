@@ -28,5 +28,5 @@ collections:
             label: Portfolio images
             widget: list
             fields:
-              - {label: "class", name: "class", widget: "string"}
-              - {label: "src", name: "src", widget: "image"}
+              - {label: "class", name: "Type", widget: "string"}
+              - {label: "src", name: "Image", widget: "image"}
