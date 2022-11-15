@@ -20,7 +20,7 @@ collections:
     format: "json"
     extension: "json"
     files:
-      - name: "images"
+      - name: "portfolioList"
         label: "Images"
         file: "/public/portfolio/portfolio.json"
         fields:
