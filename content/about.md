@@ -1,8 +1,11 @@
 ---
 title: About Me
-menu: main
 type: about
 heading: Let me introduce myself
+menu:
+  main:
+    weight: 2
+
 ---
 Hi I'm an illustrator / concept artist. I am both capable of 2D and 3D drawings but my preference goes out to 2D.
 

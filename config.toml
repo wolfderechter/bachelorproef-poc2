@@ -1,27 +1,12 @@
 baseURL = "http://localhost"
-disableKinds = [ "taxonomy", "taxonomyTerm" ]
-languageCode = "en-au"
-defaultContentLanguage = "en-au"
-title = "FriedFireAnt"
 copyright = "FriedFireAnt"
+defaultContentLanguage = "en-au"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en-au"
 paginate = 5
 summaryLength = 7
-
+title = "FriedFireAnt"
 [languages.en-au]
 weight = 1
-
 [markup.goldmark.renderer]
 unsafe = true
-
-# menu links via config file
-# menu:
-#   main:
-#   - identifier: "about"
-#     name: "About Me"
-#     url: "/about"
-#     weight: 21
-#   - name: Google
-#     url: http://www.google.com/
-#     weight: 100
-#     params:
-#       blank: true
