@@ -14,3 +14,5 @@ fields:
     label: class
   config:
     labelField: class
+pages:
+- content/portfolio/portfolio.json
