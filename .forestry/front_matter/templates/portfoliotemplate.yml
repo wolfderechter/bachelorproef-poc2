@@ -4,7 +4,6 @@ hide_body: false
 fields:
 - type: field_group_list
   name: portfolioList
-  label: portfolioList
   fields:
   - type: file
     name: src
@@ -14,6 +13,7 @@ fields:
     label: Type Of Art
   config:
     labelField: class
-  description: test
+  description: This is the list of the portfolio artworks
+  label: Portfolio Works
 pages:
 - content/portfolio/portfolio.json
