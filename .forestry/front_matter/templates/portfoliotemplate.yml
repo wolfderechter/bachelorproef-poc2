@@ -1,0 +1,14 @@
+---
+label: portfolioTemplate
+hide_body: true
+fields:
+- type: field_group_list
+  name: portfolioList
+  label: portfolioList
+  fields:
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: class
+    label: class
