@@ -8,10 +8,10 @@ fields:
   fields:
   - type: file
     name: src
-    label: src
+    label: Image
   - type: text
     name: class
-    label: class
+    label: Type Of Art
   config:
     labelField: class
   description: test
